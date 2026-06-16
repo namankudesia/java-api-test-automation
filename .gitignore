@@ -1,0 +1,5 @@
+target/
+*.class
+reports/*.html
+.idea/
+*.iml
